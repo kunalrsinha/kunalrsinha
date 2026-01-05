@@ -35,6 +35,45 @@ Backend Developer at **Clavis Technologies**, building scalable web applications
 - **Docker** (containerization)
 - **Linux** (command-line proficiency)
 
+- ## 💪 Microservices Architecture
+
+I have **4+ years of professional experience** designing, building, and deploying microservices-based systems in production environments.
+
+### Core Microservices Expertise:
+
+- **Architecture & Design**: Monolith-to-microservices migration, service decomposition, API gateway patterns
+- **Service Communication**: RESTful APIs, gRPC, asynchronous messaging (RabbitMQ, Kafka)
+- **Data Management**: Distributed data patterns, eventual consistency, database per service
+- **Containerization**: Docker, container orchestration, image optimization
+- **Orchestration & Deployment**: Kubernetes (k8s), service discovery, load balancing
+- **API Management**: Versioning, backward compatibility, API documentation
+- **Monitoring & Logging**: Distributed tracing, centralized logging, metrics collection
+- **Security**: Service-to-service authentication, API security, secrets management
+- **Performance Optimization**: Caching strategies, rate limiting, circuit breakers
+- **DevOps Integration**: Automated CI/CD for microservices, container registry, deployment automation
+
+### Microservices Patterns Implemented:
+
+- ✅ **Service Mesh**: Traffic management, service discovery, resilience patterns
+- ✅ **API Gateway Pattern**: Routing, authentication, request transformation
+- ✅ **Circuit Breaker Pattern**: Fault tolerance, graceful degradation
+- ✅ **Saga Pattern**: Distributed transactions, eventual consistency
+- ✅ **Event-Driven Architecture**: Event sourcing, CQRS implementation
+- ✅ **Strangler Pattern**: Safe migration from monolith to microservices
+
+### Technology Stack:
+
+- **Service Development**: Node.js, Express, Fastify
+- **Message Queues**: RabbitMQ, Apache Kafka
+- **Container Orchestration**: Docker, Kubernetes
+- **Monitoring**: Prometheus, ELK Stack, Grafana
+- **API Gateway**: NGINX, Kong
+- **Service Mesh**: Istio (when needed)
+
+> **Note**: Comprehensive microservices project repository coming soon! The codebase will showcase a complete production-ready microservices ecosystem with all patterns and best practices implemented.
+
+---
+
 ---
 
 ## 🚀 Featured Projects
