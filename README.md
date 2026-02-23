@@ -6,7 +6,7 @@ Backend Developer at **Clavis Technologies**, building scalable web applications
 - 💼 Tech Stack: Node.js, Express, MongoDB, MySQL, Angular, TypeScript, PHP, AWS EC2, GitHub Actions, nginx
 - 🧩 Specialties: RESTful API design, database optimization, deployment automation, authentication & security
 - 🌍 Based in: Noida, Uttar Pradesh, India
-- 📫 Get in touch: [Email](mailto:kunalsinha.bhumcs2015@gmail.com) | [LinkedIn](https://linkedin.com/in/kunalrsinha)
+- 📫 Get in touch: [Email](mailto:kunalsinha.bhumcs2015@gmail.com) | [LinkedIn](linkedin.com/in/kunal-sinha-17b52265)
 
 ---
 
